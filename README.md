@@ -1,1 +1,1 @@
-# Game-of-Deep-Learning-Computer-Vision-Hackathon
+# Game of Deep Learning Computer Vision Hackathon
